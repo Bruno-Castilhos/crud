@@ -2,17 +2,17 @@
   "products": [
     {
       "name": "Caneta BIC Preta",
-      "price": 4.20,
+      "price": 4.2,
       "id": 1
     },
     {
       "name": "Mac Pro",
-      "price": 12000.00,
+      "price": 12000,
       "id": 2
     },
     {
       "name": "Iphone 27x",
-      "price": 10000.00,
+      "price": 10000,
       "id": 3
     }
   ]
