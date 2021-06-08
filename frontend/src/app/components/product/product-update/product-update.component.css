@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-right: 15px;
+}
+
+::ng-deep .mat-focused .mat-form-field-ripple {
+  background-color: #fff !important;
+}
+::ng-deep .mat-focused .mat-form-field-label {
+  color: #fff !important;
+}
+::ng-deep .mat-input-element {
+  caret-color: white !important;
+}
